@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CoreUI",
+        "repositoryURL": "https://github.com/mdb1/CoreUI",
+        "state": {
+          "branch": "main",
+          "revision": "efa334c073ba8214425cdf808c4247663b97db5f",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

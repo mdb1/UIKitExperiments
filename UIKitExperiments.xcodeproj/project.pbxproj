@@ -1,0 +1,88 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXFileReference section */
+		A077D73827BF2A4B004011F1 /* UIKitPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = UIKitPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		A077D73127BF2A3D004011F1 = {
+			isa = PBXGroup;
+			children = (
+				A077D73827BF2A4B004011F1 /* UIKitPlayground.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		A077D73227BF2A3D004011F1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1320;
+			};
+			buildConfigurationList = A077D73527BF2A3D004011F1 /* Build configuration list for PBXProject "UIKitExperiments" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A077D73127BF2A3D004011F1;
+			packageReferences = (
+				A077D73927BF2A67004011F1 /* XCRemoteSwiftPackageReference "CoreUI" */,
+			);
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		A077D73627BF2A3D004011F1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		A077D73727BF2A3D004011F1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A077D73527BF2A3D004011F1 /* Build configuration list for PBXProject "UIKitExperiments" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A077D73627BF2A3D004011F1 /* Debug */,
+				A077D73727BF2A3D004011F1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		A077D73927BF2A67004011F1 /* XCRemoteSwiftPackageReference "CoreUI" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/mdb1/CoreUI";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+	};
+	rootObject = A077D73227BF2A3D004011F1 /* Project object */;
+}
